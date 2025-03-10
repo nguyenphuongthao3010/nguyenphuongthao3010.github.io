@@ -9,6 +9,12 @@ h1, h2 {
 hr {
     border: 1px solid #ccc;
 }
-title{
-   text-align: center; 
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 10px auto;
+    width: 100px;
+    height: auto;
 }
