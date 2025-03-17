@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2f4858;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    padding-top: 20px;
+}
+.header {
+    font-size: 36px;
+    font-family: cursive;
+}
+.slogan {
+    font-size: 16px;
+    font-style: italic;
+    text-align: right;
+    margin-right: 20px;
+}
+.menu {
+    margin: 20px 0;
+    font-size: 18px;
+}
+.menu a {
+    text-decoration: underline;
+    margin: 0 15px;
+    font-weight: bold;
+}
+.menu .photoshoot {
+    color: #87CEEB; 
+}
+.menu .sweet-tabs {
+    color: #90EE90;} 
+.menu .nav-menu {
+    color: #FFFFFF; 
+}
+.content {
+    background-color: #1e3a47;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.photoshoot-effect {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: cursive;
+    letter-spacing: 2px;
+    color: white;
+}
+.gray-hr {
+    border: none;
+    height: 2px;
+    background: #d3d3d3;
+    width: 100%;
+    margin: 10px auto;
+}
+.photo-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.photo-text {
+    width: 50%;
+    text-align: left;
+    font-size: 16px;
+    line-height: 1.5;
+    padding-right: 20px;
+}
+.photo-box {
+    width: 50%;
+    background-color: #223b4d;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.photo-box img {
+    width: 100%;
+    border-radius: 10px;
+}
+.black-hr {
+    border: none;
+    height: 2px;
+    background: black;
+    width: 100%;
+    margin-top: 30px;
+}
+.footer {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #ccc;
+}
+.photo-text p:first-child {
+    color: #90EE90; 
+}
